@@ -10,7 +10,8 @@ The pure python code is on [Replit](https://replit.com/@khalidstudymate/CCF) and
 
 Further more, this is my second html project through which I learned the use of [Pyscript](https://pyscript.net/) and CSS.
 
-[Pdf Download](CCF.pdf)
+### [Pdf Link](CCF.pdf)
+**NOTE:** Pdf consists of old hand-written notes, viewer may find it difficult to read.
 
 
 
