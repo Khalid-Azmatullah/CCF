@@ -3,7 +3,7 @@
 **Hey!**
 This is CCF or 'Circle Central Formula'. It is mathematical formula exercised through [Python](https://www.python.org/) and embeded using the [Pyscript](https://pyscript.net/) module.
 
-CCF is Defined as the formula for obtaining the co-ordinates of the centre of the circle if 3 points which pass through the circle are provided.
+CCF is Defined as the formula for obtaining the co-ordinates of the centre of the circle if 3 points which pass through the circle are provided. **_However_** the program may give slightly different answers due to rounding error.
 
 In itself CCF is indenpendently dervived by [me](https://github.com/Khalid-Azmatullah) using 10th grade mathematics and a little logic.
 The pure python code is on [Replit](https://replit.com/@khalidstudymate/CCF) and is extremely basic in nature.
