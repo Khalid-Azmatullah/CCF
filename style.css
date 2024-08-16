@@ -47,7 +47,7 @@ header a:hover {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #c4c4c4;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding: 10px;
@@ -59,7 +59,11 @@ header a:hover {
 
 
 
-@media (width > 44em) {}
+@media (width > 44em) {
+    #f1x{
+        width: ;
+    }
+}
 
 
 
@@ -73,9 +77,14 @@ header a:hover {
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
     width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
 }
 #f1x:hover {
     background-color: #e9e9e9;
@@ -84,14 +93,21 @@ header a:hover {
 
 #f2x {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
+    width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
 }
 #f2x:hover {
     background-color: #e9e9e9;
@@ -100,14 +116,21 @@ header a:hover {
 
 #f3x {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
+    width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
 }
 #f3x:hover {
     background-color: #e9e9e9;
@@ -116,15 +139,21 @@ header a:hover {
 
 #f1y {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
-}
+    width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;}
 #f1y:hover {
     background-color: #e9e9e9;
     border: 1px solid #c9c8c8;
@@ -132,14 +161,21 @@ header a:hover {
 
 #f2y {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
+    width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
 }
 #f2y:hover {
     background-color: #e9e9e9;
@@ -148,14 +184,21 @@ header a:hover {
 
 #f3y {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
     font-size: 1rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
-    margin-top: 10px;
     margin-bottom: 10px;
+    width: 300px;
+
+    
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
 }
 #f3y:hover {
     background-color: #e9e9e9;
