@@ -233,15 +233,43 @@ header a:hover {
 
 #output {
     background-color: #fff;
-    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1.3rem;
+    font-size: 2rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-bottom: 10px;
     display: inline-block;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
+
+    width: 300px;   
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 12px 20px 12px 10px;
+    
 }
+
+#output_result {
+    background-color: #c4c4c4;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+    font-size: 2rem;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: inline-block;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+
+    width: 300px;   
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 0px;
+    
+}
+
 h6 {
     font-size: 1.3rem;
     color: #24292e;
