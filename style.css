@@ -228,6 +228,25 @@ header a:hover {
 #Calculate:hover {
     background-color: #e9e9e9;
     border: 1px solid #c9c8c8;
+    
+}
+
+#btn{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    transition-duration: 0.3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.6rem;
+    text-decoration: none;
+    border: #ddd solid 1px;
+    color: #000;
+}
+#btn:hover{
+    background-color:#c9c8c8;;
+    
+    border: 1px solid #c9c8c8;
 }
 
 
@@ -239,7 +258,7 @@ header a:hover {
     font-size: 2rem;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     display: inline-block;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 
@@ -280,6 +299,7 @@ h6 {
 
 
 footer {
+    margin-top: 20px;
     background-color: #fff;
     font-size: 1.3rem;
     color: #24292e;
