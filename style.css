@@ -59,10 +59,18 @@ header a:hover {
 
 
 
-@media (width > 44em) {
-    #f1x{
-        width: ;
-    }
+@media (width > 45em) {
+    
+#Calculate {
+    padding: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 2rem;
+    border-radius: 10px;
+    transition-duration: 0.3s;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 }
 
 
