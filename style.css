@@ -30,6 +30,7 @@ header {
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     background: linear-gradient(180deg, #9676e1, #1a0744); /* Gradient background */
+    font-size: 1rem;
 }
 
 h1 {
@@ -59,7 +60,9 @@ header a:hover {
 
 
 @media (width > 44em) {
-    
+    #f1x{
+        width: ;
+    }
 }
 
 
@@ -76,6 +79,7 @@ header a:hover {
     transition-duration: 0.3s;
     margin-top: 10px;
     margin-bottom: 10px;
+    width: 300px;
 }
 #f1x:hover {
     background-color: #e9e9e9;
