@@ -51,7 +51,7 @@ header a:hover {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     margin-top: 10px;
@@ -81,7 +81,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -104,7 +104,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -127,7 +127,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -150,7 +150,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -172,7 +172,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -195,7 +195,7 @@ header a:hover {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     padding: 10px;
-    font-size: 1rem;
+    font-size: 25px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition-duration: 0.3s;
@@ -216,10 +216,10 @@ header a:hover {
 
 
 #Calculate {
-    padding: 10px;
+    padding: 15px;
     border: 1px solid #ddd;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    font-size: 1.3rem;
+    font-size: 25px;
     border-radius: 10px;
     transition-duration: 0.3s;
     margin-top: 10px;
